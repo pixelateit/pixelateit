@@ -34,7 +34,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="pixelateit's GitHub Stats" src="https://github-readme-stats.pixelateit.vercel.app/api?username=pixelateit&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pixelateit&show_icons=true&include_all_commits=true&theme=material-palenight" alt="pixelateit's github stats" />
 
 </details>
 
