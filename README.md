@@ -6,7 +6,7 @@
 - 🔭 I will create a website by july 2021
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Learning CSS and create projects using Java 
-- ⚡ Fun fact: I love to draw and reading 5-books
+- ⚡ Fun fact: I love to draw and reading books
 
 ### Spotify Playing 🎧
 
