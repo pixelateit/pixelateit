@@ -3,9 +3,7 @@
 
 ## I'm an Engineer and learning to code!!
 
-- 🔭 I will create a website by july 2021
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learning CSS and create projects using Java 
+- 🔭 I will create a website by july 2022
 - ⚡ Fun fact: I love to draw and reading books
 
 ### Spotify Playing 🎧
