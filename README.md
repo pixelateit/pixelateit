@@ -3,12 +3,9 @@
 
 ## I'm an Engineer and learning to code!!
 
-- 🔭 I will create a website by july 2022
+- 🔭 I will create a website by Nov 2022
 - ⚡ Fun fact: I love to draw and reading books
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
@@ -38,4 +35,4 @@
 
 
 [twitter]: https://twitter.com/pixelateit
-[linkedin]: https://linkedin.com/in/prakhar-srivastava-a23641203/
+[linkedin]: https://www.linkedin.com/in/pixelateit/
