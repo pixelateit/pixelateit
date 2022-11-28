@@ -1,10 +1,10 @@
 ### Hello world!, I'm Prakhar - aka pixelateit 🙏
 
 
-## I'm an Engineer and learning to code!!
+## I'm a UI/UX Designer and developer
 
 - 🔭 Website: https://www.pixelateit.co.in/
-- ⚡ Fun fact: I love to draw and reading books
+- ⚡ Fun fact: I like making animations on blender.
 
 
 ### Connect with me:
